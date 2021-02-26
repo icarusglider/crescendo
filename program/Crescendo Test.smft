@@ -1,0 +1,17 @@
+<Device Model="PMC3-XP" Name="PMC3-XP.">
+   <Network Type="Cresnet" Id="01">
+      <Device Model="CHV-TSTATA,CHV-THSTATA," DeviceId="81" Name="C-01  Media Room"/>
+      <Device Model="CHV-TSTATA,CHV-THSTATA," DeviceId="82" Name="C-02  Master Suite"/>
+      <Device Model="CHV-TSTATA,CHV-THSTATA," DeviceId="83" Name="C-03  Guest Suite"/>
+   </Network>
+   <Network Type="Ethernet" Id="02">
+      <Device Model="Crestron_App" DeviceId="03" Name="T-01  iPad 1"/>
+      <Device Model="CEN-IO-COM-102" DeviceId="08">
+         <Network Type="IR"/>
+      </Device>
+      <Device Model="CEN-NSP-1" DeviceId="31"/>
+      <Device Model="SWAMP" DeviceId="3F" Name="X-01/10"/>
+      <Device Model="DM-MD6x4" DeviceId="40" Name="X-41/44"/>
+   </Network>
+   <Network Type="RF" Id="03"/>
+</Device>
