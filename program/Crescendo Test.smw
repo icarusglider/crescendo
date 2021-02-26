@@ -33618,7 +33618,7 @@ SmVr=1134
 PrH=4
 CF=2
 Cmn1=Demo Logic\\
-mC=9
+mC=8
 C1=131
 C2=132
 C3=133
@@ -33627,7 +33627,6 @@ C5=135
 C6=136
 C7=178
 C8=200
-C9=311
 ]
 [
 ObjTp=Sm
@@ -37606,27 +37605,6 @@ I1=1693
 mO=2
 tO=2
 O1=577
-O2=2136
-mP=2
-P1=2s
-P2=1t
-]
-[
-ObjTp=Sm
-H=311
-SmC=155
-Nm=press and hold v1.2.cmc
-ObjVer=1
-PrH=130
-CF=2
-n1I=1
-n1O=2
-Cmn1=01\\
-mI=1
-I1=1682
-mO=2
-tO=2
-O1=108
 O2=2136
 mP=2
 P1=2s
